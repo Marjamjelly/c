@@ -1,6 +1,7 @@
 # Cookie Clicker Downloadable HTML
 <br><br>
 Cookie Clicker source code for educational purposes. <br>
+Which also includes some spicy mod tabs and standalone window support. <br>
 Download and extract from the "Releases" section.<br>
 Or use the <a target="_blank" href="https://sushi8756.github.io/Cookie-Clicker-Source-Code/">website</a>!<br><br>
 Website version loads a bit faster, but can get blocked.<br>
